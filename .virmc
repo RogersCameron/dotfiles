@@ -1,0 +1,6 @@
+syntax on 
+set ruler 
+set autoident 
+set number
+set ignorecase
+color elflord
